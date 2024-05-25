@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammedrizwanps/" target="blank"><img align="center" src="https://github.com/MUHAMMED-RIZWAN-P-S/MUHAMMED-RIZWAN-P-S/blob/main/LinkedIn.png" alt="muhammed-raihan-p-s-aa3288213" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/R1ZWAN/" target="blank"><img align="center" src="https://github.com/MUHAMMED-RIZWAN-P-S/MUHAMMED-RIZWAN-P-S/blob/main/LeetCode.png" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammedrizwanps/" target="blank"><img align="center" src="https://github.com/MUHAMMED-RIZWAN-P-S/MUHAMMED-RIZWAN-P-S/blob/main/LeetCode.svg" alt="muhammed-raihan-p-s-aa3288213" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/R1ZWAN/" target="blank"><img align="center" src="https://github.com/MUHAMMED-RIZWAN-P-S/MUHAMMED-RIZWAN-P-S/blob/main/LinkedIn.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

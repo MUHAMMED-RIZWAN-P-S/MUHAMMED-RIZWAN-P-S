@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=MUHAMMED-RIZWAN-P-S&label=Profile%20views&color=0e75b6&style=flat" alt="MUHAMMED-RIZWAN-P-S" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 
 - 🌱 My latest area of interest is **Artificial Brain**.
 - 📫 Reach me at: **psrizwan901@gmail.com**.

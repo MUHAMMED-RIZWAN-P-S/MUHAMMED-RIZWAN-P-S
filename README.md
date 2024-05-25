@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/MUHAMMED-RIZWAN-P-S/MUHAMMED-RIZWAN-P-S/blob/main/rizwan.gif)
 <h1 align="left">Hi👋, I am Muhammed Rizwan P. S.</h1>
 <h3 align="left">
-I am a highly research-oriented individual with a profound passion for acquiring knowledge across a wide array of subjects.
+<br>I am a highly research-oriented individual with a profound passion for acquiring knowledge across a wide array of subjects.</br>
 <br>My natural curiosity drives me to explore and understand complex concepts that stimulate intellectual growth.</br>
 <br>In my research endeavors, I am particularly drawn to the fields of Science, Mathematics, Artificial Intelligence, and Religious Studies.</br>
 <br>This interdisciplinary approach allows me to delve deeply into each area, fostering a comprehensive understanding that enhances my professional and academic pursuits.</br></h3>

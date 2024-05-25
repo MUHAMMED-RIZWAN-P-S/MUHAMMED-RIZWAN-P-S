@@ -1,26 +1,25 @@
 ![MasterHead](https://github.com/MUHAMMED-RIZWAN-P-S/MUHAMMED-RIZWAN-P-S/blob/main/rizwan.gif)
-<h1 align="left">Hi👋</h1>
-<h1 align="left">I am Muhammed Rizwan P. S.</h1>
-<h2 align="left">
+<h1 align="left">Hi👋, I am Muhammed Rizwan P. S.</h1>
+<h3 align="left">
 <br>I am a highly research-oriented individual with a profound passion for acquiring knowledge across a wide array of subjects.</br>
 <br>My natural curiosity drives me to explore and understand complex concepts that stimulate intellectual growth.</br>
 <br>In my research endeavors, I am particularly drawn to the fields of Science, Mathematics, Artificial Intelligence, and Religious Studies.</br>
-<br>This interdisciplinary approach allows me to delve deeply into each area, fostering a comprehensive understanding that enhances my professional and academic pursuits.</br></h2>
+<br>This interdisciplinary approach allows me to delve deeply into each area, fostering a comprehensive understanding that enhances my professional and academic pursuits.</br></h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MUHAMMED-RIZWAN-P-S&label=Profile%20views&color=0e75b6&style=flat" alt="MUHAMMED-RIZWAN-P-S" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MUHAMMED-RIZWAN-P-S&theme=radical" alt="MUHAMMED-RIZWAN-P-S" />
-  </a>
 </p>
 
 
 - 🌱 My latest area of interest is **Artificial Brain**.
 - 📫 Reach me at: **psrizwan901@gmail.com**.
 
+  
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MUHAMMED-RIZWAN-P-S&theme=radical" alt="MUHAMMED-RIZWAN-P-S" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

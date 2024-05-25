@@ -23,12 +23,18 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammedrizwanps/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-raihan-p-s-aa3288213" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MUHAMMED-RIZWAN-P-S" height="30" width="40" />
   </a>
+
+<a href="https://www.linkedin.com/in/muhammedrizwanps/" target="blank">
+    <img align="center" src="https://github.com/MUHAMMED-RIZWAN-P-S/MUHAMMED-RIZWAN-P-S/blob/main/Leetcode.svg" alt="MUHAMMED-RIZWAN-P-S" height="30" width="40" />
+  </a>
+
+  
  <a href="https://www.linkedin.com/in/muhammedrizwanps/" target="blank">
     <img align="center" src="" alt="muhammed-raihan-p-s-aa3288213" height="30" width="40" />
   </a>
-<a href="https://github.com/MUHAMMED-RIZWAN-P-S/MUHAMMED-RIZWAN-P-S/blob/main/Leetcode.svg" class="text-underline font-size-sm" target="_blank">Leetcode</a>
+<a href="" class="text-underline font-size-sm" target="_blank">Leetcode</a>
 </p>
 
 

@@ -1,7 +1,10 @@
 ![MasterHead](https://github.com/MUHAMMED-RIZWAN-P-S/MUHAMMED-RIZWAN-P-S/blob/main/rizwan.gif)
 <h1 align="left">Hi👋</h1>
-<h1 align="left">I am Muhammed Raihan P. S.</h1>
-<h2 align="left">I am a graduate 🎓 with a passion for continuous learning in the fields of Space, Artificial intelligence, Machine learning, Deep learning, Computer vision and Programming. Currently, I am enrolled as a postgraduate student pursuing a Master's in Computer Application (MCA) at Vivekananda Institute Of Professional Studies (VIPS, GGSIPU). I am committed to expanding my knowledge and skills in the field of computer science 🖥️ .</h2>
+<h1 align="left">I am Muhammed Rizwan P. S.</h1>
+<h2 align="left">I am a highly research-oriented individual with a profound passion for acquiring knowledge across a wide array of subjects.
+My natural curiosity drives me to explore and understand complex concepts that stimulate intellectual growth.
+In my research endeavors, I am particularly drawn to the fields of Science, Mathematics, Artificial Intelligence, and Religious Studies.
+This interdisciplinary approach allows me to delve deeply into each area, fostering a comprehensive understanding that enhances my professional and academic pursuits.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oraihano&label=Profile%20views&color=0e75b6&style=flat" alt="oraihano" /> </p>
 

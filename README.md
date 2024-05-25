@@ -2,7 +2,7 @@
 <h1 align="left">Hi👋</h1>
 <h1 align="left">I am Muhammed Rizwan P. S.</h1>
 <h2 align="left">I am a highly research-oriented individual with a profound passion for acquiring knowledge across a wide array of subjects.
-My natural curiosity drives me to explore and understand complex concepts that stimulate intellectual growth.
+<br>My natural curiosity drives me to explore and understand complex concepts that stimulate intellectual growth.</br>
 In my research endeavors, I am particularly drawn to the fields of Science, Mathematics, Artificial Intelligence, and Religious Studies.
 This interdisciplinary approach allows me to delve deeply into each area, fostering a comprehensive understanding that enhances my professional and academic pursuits.</h2>
 

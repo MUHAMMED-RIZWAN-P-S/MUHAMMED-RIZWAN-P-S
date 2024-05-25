@@ -26,9 +26,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-raihan-p-s-aa3288213" height="30" width="40" />
   </a>
  <a href="https://www.linkedin.com/in/muhammedrizwanps/" target="blank">
-    <img align="center" src="http://www.w3.org/2000/sv" alt="muhammed-raihan-p-s-aa3288213" height="30" width="40" />
+    <img align="center" src="" alt="muhammed-raihan-p-s-aa3288213" height="30" width="40" />
   </a>
-
+<a href="https://iconscout.com/icons/leetcode" class="text-underline font-size-sm" target="_blank">Leetcode</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a>
 </p>
 
 

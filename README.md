@@ -17,11 +17,10 @@
   </a>
 </p>
 
-<h3 align="left">About Me:</h3>
-<p align="left">
+
 - 🌱 My latest area of interest is **Artificial Brain**.
 - 📫 Reach me at: **psrizwan901@gmail.com**.
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
